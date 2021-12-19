@@ -10,8 +10,7 @@ This repository contains the refactored code for the Horiseon Social Solution Se
 * A descriptive title for the webpage
 * The links within the navigation bar are now working and will take the user to the designated spot whithin the website.
 
-Website URL:
+Website URL:[https://github.com/molano1979/Horiseon-project-1](https://github.com/molano1979/Horiseon-project-1)
 
-Repository URL:
+
 ![imagename](Horiseon-screenshot.png)
-
